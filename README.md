@@ -1,5 +1,3 @@
-# logickoder.dev
-
 ## Build Setup
 
 ``` bash
